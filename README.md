@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <div align="left">
   <img src="Java-Logo.png" height="80" alt="go logo"  />
   <img width="12" />
-  <img src="C-logo.png" height="0" alt="rust logo"  />
+  <img src="C-logo.png" height="80" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
   <img width="12" />
