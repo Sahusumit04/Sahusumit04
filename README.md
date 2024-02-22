@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <img src="java-Logo2.png" height="80" alt="go logo"  />
+  <img src="java-Logo2.jpg" height="80" alt="go logo"  />
   <img width="12" />
   <img src="C-logo.png" height="80" alt="rust logo"  />
   <img width="12" />
