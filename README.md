@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Sumit Sahu  from Baderia Global Institute of Engineering and Management<br><br>- 🔭 I’m working as Labour<br>- 📚 I'm currently learning How to make masala<br>- ⚡ In my free time I use to do MUTTHI.</p>
 
 ###
 
