@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="150" src="photu.jpg"  />
+  <img height="150" src="my image.jpg"  />
 </div>
 
 ###
